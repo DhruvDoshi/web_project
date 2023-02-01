@@ -21,7 +21,7 @@
     "express": "^4.17.3",
     "express-async-handler": "^1.1.4",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.13.14",
+    "mongoose": "^5.13.15",
     "react-redux": "^7.2.6",
     "react-router-dom": "^6.2.2"
   },
